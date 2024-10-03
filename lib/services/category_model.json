@@ -1,0 +1,76 @@
+{
+    "categories": [
+        {
+            "name": "Pesticides",
+            "subcategories":[
+                "Glyphosate",
+                "Malathion",
+                "Neem oil"
+            ]
+        },
+        {
+            "name": "Seeds",
+            "subcategories":[
+                "Corn seeds ",
+                "Wheat seeds",
+                "Rice seeds"
+            ]
+        },
+        {
+            "name": "Plant Nutrients",
+            "subcategories":[
+                "Nitrogen",
+                "Phosphorus",
+                "Potassium"
+            ]
+        },
+        {
+            "name": "Horticulture",
+            "subcategories":[
+                "Plants",
+                "Fertilizer",
+                "Equipment"
+            ]
+        },
+        {
+            "name": "Nutrients",
+            "subcategories":[
+                "Zinc",
+                "Sulfur",
+                "Calcium"
+            ]
+        },
+        {
+            "name": "Tools",
+            "subcategories":[
+                "Soil testing kits",
+                "Seeder",
+                "Harrow"
+            ]
+        },
+        {
+            "name": "Nets",
+            "subcategories":[
+                "Fishing nets",
+                "Insects nets",
+                "Shade nets"
+            ]
+        },
+        {
+            "name": "Shovels and spades",
+            "subcategories":[
+                "Scythe",
+                "Wheelbarrow",
+                "Rake"
+            ]
+        },
+        {
+            "name": "Polyhouse Seeds",
+            "subcategories":[
+                "Capsicum",
+                "Chilli",
+                "Lettuce"
+            ]
+        }
+    ]
+}
